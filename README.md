@@ -1,7 +1,6 @@
 ### Oiii! Eu sou a Sara Guanais 👋
 ##
 ![gif-apresentacao (1)](https://github.com/SaraGuanais/SaraGuanais/assets/55092296/779a6455-1dbf-4bdc-9b23-2789d9d2147e)
-
  
 <p>
 - 🌱 Olá, me chamo Sara Guanais! <br>
@@ -9,7 +8,6 @@
 - 💻 Unindo o conhecimento em design à de construção de experiências interativas e funcionais na web.<br>
 - 🏡 São Paulo, Brasil. 
 </p>
-<br>
 
 ### Meu Github stats
 ##
