@@ -15,7 +15,7 @@
 ##
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&theme=cobalt&count_private=true)
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
 
 
 ### Redes sociais
