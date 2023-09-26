@@ -5,7 +5,7 @@
 <p>
 - 🌱 Olá, me chamo Sara Guanais! <br>
 - ⚡ Desenvolvedora Front End em Formação. <br>
-- 💻 Unindo o conhecimento em design à de construção de experiências interativas e funcionais na web.<br>
+- 💻 Unindo o conhecimento em design à construção de experiências interativas e funcionais na web.<br>
 - 🏡 São Paulo, Brasil. 
 </p>
 
