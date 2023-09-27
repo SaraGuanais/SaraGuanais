@@ -9,10 +9,8 @@
 </p>
 
 ## :woman_technologist: Linguagens usadas:
-<div style="float: left;">
-    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
-</div>
-
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
+ 
 ## :books: Github Stats:
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&theme=cobalt&count_private=true)
 <br>
