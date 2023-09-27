@@ -12,7 +12,7 @@
 ### Meu Github stats
 ##
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; max-width: 48%;">
         <img width="100%" height="197" src="https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&count_private=true&hide_border=true&title_color=d372be&icon_color=76ddac&text_color=c9d1d9&bg_color=1A3549" alt="Caroline Barbosa github stats" />
     </div>
