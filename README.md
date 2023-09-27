@@ -13,7 +13,7 @@
 
 ## :books: Github Stats:
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&theme=cobalt&count_private=true)
-
+<br>
 
 ## :calling: Redes Sociais:
 <a href="https://www.linkedin.com/in/sara-guanais-44ba1518b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
