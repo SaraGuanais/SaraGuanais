@@ -12,12 +12,12 @@
 ### Meu Github stats
 ##
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1; max-width: 38%;">
-        <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&count_private=true&hide_border=true&title_color=d372be&icon_color=76ddac&text_color=c9d1d9&bg_color=1A3549" alt="Caroline Barbosa github stats" />
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1; padding: 10px;">
+        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=saraguanais&show_icons=true&count_private=true&hide_border=true&title_color=d372be&icon_color=76ddac&text_color=c9d1d9&bg_color=1A3549" alt="Caroline Barbosa github stats" />
     </div>
-    <div style="flex: 1; max-width: 38%;">
-        <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
+    <div style="flex: 1; padding: 10px;">
+        <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraguanais&layout=compact&hide_border=true&title_color=d372be&text_color=76ddac&bg_color=1A3549" />
     </div>
 </div>
 
